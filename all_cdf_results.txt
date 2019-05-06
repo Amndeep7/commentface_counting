@@ -1,0 +1,1683 @@
+#papithumbsup
+total users: 48 not from cdf: 6 ( 0.125 )
+ total usages: 252 usages not from cdfers: 9 ( 0.03571 )
+
+#tamakoapple
+total users: 21 not from cdf: 1 ( 0.04762 )
+ total usages: 51 usages not from cdfers: 1 ( 0.01961 )
+
+#missedthepoint
+total users: 41 not from cdf: 7 ( 0.17073 )
+ total usages: 71 usages not from cdfers: 8 ( 0.11268 )
+
+#antabaka
+total users: 40 not from cdf: 8 ( 0.2 )
+ total usages: 111 usages not from cdfers: 10 ( 0.09009 )
+
+#fingertwirl
+total users: 122 not from cdf: 16 ( 0.13115 )
+ total usages: 1045 usages not from cdfers: 25 ( 0.02392 )
+
+#hugbear
+total users: 114 not from cdf: 9 ( 0.07895 )
+ total usages: 791 usages not from cdfers: 13 ( 0.01643 )
+
+#sideeyes
+total users: 41 not from cdf: 4 ( 0.09756 )
+ total usages: 169 usages not from cdfers: 4 ( 0.02367 )
+
+#tiredfate
+total users: 37 not from cdf: 5 ( 0.13514 )
+ total usages: 126 usages not from cdfers: 8 ( 0.06349 )
+
+#ero
+total users: 247 not from cdf: 161 ( 0.65182 )
+ total usages: 438 usages not from cdfers: 197 ( 0.44977 )
+
+#cup9
+total users: 41 not from cdf: 3 ( 0.07317 )
+ total usages: 75 usages not from cdfers: 4 ( 0.05333 )
+
+#justasplanned
+total users: 30 not from cdf: 2 ( 0.06667 )
+ total usages: 78 usages not from cdfers: 2 ( 0.02564 )
+
+#kinirohug
+total users: 101 not from cdf: 9 ( 0.08911 )
+ total usages: 1132 usages not from cdfers: 13 ( 0.01148 )
+
+#killuadisgust
+total users: 25 not from cdf: 5 ( 0.2 )
+ total usages: 35 usages not from cdfers: 5 ( 0.14286 )
+
+#gabdisgust
+total users: 57 not from cdf: 9 ( 0.15789 )
+ total usages: 198 usages not from cdfers: 12 ( 0.06061 )
+
+#nosebleed
+total users: 147 not from cdf: 60 ( 0.40816 )
+ total usages: 207 usages not from cdfers: 69 ( 0.33333 )
+
+#yui-crying
+total users: 65 not from cdf: 22 ( 0.33846 )
+ total usages: 156 usages not from cdfers: 39 ( 0.25 )
+
+#usamiwink
+total users: 41 not from cdf: 7 ( 0.17073 )
+ total usages: 90 usages not from cdfers: 7 ( 0.07778 )
+
+#lewdbot
+total users: 11 not from cdf: 0 ( 0.0 )
+ total usages: 36 usages not from cdfers: 0 ( 0.0 )
+
+#rerorero
+total users: 73 not from cdf: 29 ( 0.39726 )
+ total usages: 201 usages not from cdfers: 35 ( 0.17413 )
+
+#miiaembarassed
+total users: 10 not from cdf: 0 ( 0.0 )
+ total usages: 16 usages not from cdfers: 0 ( 0.0 )
+
+#deadpan
+total users: 276 not from cdf: 161 ( 0.58333 )
+ total usages: 414 usages not from cdfers: 199 ( 0.48068 )
+
+#anko
+total users: 154 not from cdf: 38 ( 0.24675 )
+ total usages: 861 usages not from cdfers: 60 ( 0.06969 )
+
+#terror
+total users: 1052 not from cdf: 768 ( 0.73004 )
+ total usages: 2268 usages not from cdfers: 1132 ( 0.49912 )
+
+#infernocopu
+total users: 21 not from cdf: 5 ( 0.2381 )
+ total usages: 39 usages not from cdfers: 5 ( 0.12821 )
+
+#donewiththisshit
+total users: 17 not from cdf: 2 ( 0.11765 )
+ total usages: 24 usages not from cdfers: 2 ( 0.08333 )
+
+#dubs
+total users: 3034 not from cdf: 2486 ( 0.81938 )
+ total usages: 6010 usages not from cdfers: 4075 ( 0.67804 )
+
+#tomato
+total users: 224 not from cdf: 99 ( 0.44196 )
+ total usages: 443 usages not from cdfers: 108 ( 0.24379 )
+
+#banjoisahellofadrug
+total users: 33 not from cdf: 0 ( 0.0 )
+ total usages: 64 usages not from cdfers: 0 ( 0.0 )
+
+#waah
+total users: 56 not from cdf: 10 ( 0.17857 )
+ total usages: 292 usages not from cdfers: 13 ( 0.04452 )
+
+#kanyehidouyo
+total users: 21 not from cdf: 1 ( 0.04762 )
+ total usages: 38 usages not from cdfers: 1 ( 0.02632 )
+
+#miyamoriunimpressed
+total users: 61 not from cdf: 4 ( 0.06557 )
+ total usages: 172 usages not from cdfers: 4 ( 0.02326 )
+
+#shirouthumbsup
+total users: 120 not from cdf: 33 ( 0.275 )
+ total usages: 401 usages not from cdfers: 56 ( 0.13965 )
+
+#elsienopesout
+total users: 56 not from cdf: 5 ( 0.08929 )
+ total usages: 130 usages not from cdfers: 6 ( 0.04615 )
+
+#popcorn
+total users: 312 not from cdf: 187 ( 0.59936 )
+ total usages: 447 usages not from cdfers: 210 ( 0.4698 )
+
+#blankblink
+total users: 105 not from cdf: 11 ( 0.10476 )
+ total usages: 374 usages not from cdfers: 19 ( 0.0508 )
+
+#konosubawot3
+total users: 41 not from cdf: 11 ( 0.26829 )
+ total usages: 71 usages not from cdfers: 16 ( 0.22535 )
+
+#displeasedasuka
+total users: 19 not from cdf: 2 ( 0.10526 )
+ total usages: 29 usages not from cdfers: 2 ( 0.06897 )
+
+#whowouldathunkit
+total users: 53 not from cdf: 13 ( 0.24528 )
+ total usages: 640 usages not from cdfers: 19 ( 0.02969 )
+
+#shirayukidetermined
+total users: 9 not from cdf: 0 ( 0.0 )
+ total usages: 16 usages not from cdfers: 0 ( 0.0 )
+
+#shirayukidizzyblush
+total users: 20 not from cdf: 3 ( 0.15 )
+ total usages: 44 usages not from cdfers: 3 ( 0.06818 )
+
+#shirayukidrunk
+total users: 27 not from cdf: 1 ( 0.03704 )
+ total usages: 55 usages not from cdfers: 1 ( 0.01818 )
+
+#urarahype
+total users: 127 not from cdf: 10 ( 0.07874 )
+ total usages: 1677 usages not from cdfers: 43 ( 0.02564 )
+
+#awe
+total users: 614 not from cdf: 376 ( 0.61238 )
+ total usages: 1882 usages not from cdfers: 447 ( 0.23751 )
+
+#nosepick
+total users: 28 not from cdf: 4 ( 0.14286 )
+ total usages: 54 usages not from cdfers: 5 ( 0.09259 )
+
+#kurisudisappointed
+total users: 119 not from cdf: 31 ( 0.2605 )
+ total usages: 221 usages not from cdfers: 42 ( 0.19005 )
+
+#misakiwink
+total users: 13 not from cdf: 0 ( 0.0 )
+ total usages: 16 usages not from cdfers: 0 ( 0.0 )
+
+#mug1
+total users: 45 not from cdf: 2 ( 0.04444 )
+ total usages: 169 usages not from cdfers: 2 ( 0.01183 )
+
+#loli_ok
+total users: 74 not from cdf: 10 ( 0.13514 )
+ total usages: 343 usages not from cdfers: 14 ( 0.04082 )
+
+#killitwithfire
+total users: 56 not from cdf: 4 ( 0.07143 )
+ total usages: 199 usages not from cdfers: 4 ( 0.0201 )
+
+#idoruwinkdesu
+total users: 61 not from cdf: 6 ( 0.09836 )
+ total usages: 252 usages not from cdfers: 7 ( 0.02778 )
+
+#shittaste
+total users: 57 not from cdf: 12 ( 0.21053 )
+ total usages: 110 usages not from cdfers: 15 ( 0.13636 )
+
+#heartbot
+total users: 15 not from cdf: 0 ( 0.0 )
+ total usages: 350 usages not from cdfers: 0 ( 0.0 )
+
+#saikikek
+total users: 53 not from cdf: 10 ( 0.18868 )
+ total usages: 173 usages not from cdfers: 14 ( 0.08092 )
+
+#airfist
+total users: 69 not from cdf: 14 ( 0.2029 )
+ total usages: 163 usages not from cdfers: 19 ( 0.11656 )
+
+#juice1
+total users: 29 not from cdf: 3 ( 0.10345 )
+ total usages: 404 usages not from cdfers: 3 ( 0.00743 )
+
+#bestiathumbsup
+total users: 35 not from cdf: 4 ( 0.11429 )
+ total usages: 103 usages not from cdfers: 4 ( 0.03883 )
+
+#happypoi
+total users: 42 not from cdf: 1 ( 0.02381 )
+ total usages: 144 usages not from cdfers: 1 ( 0.00694 )
+
+#budgetsmile
+total users: 33 not from cdf: 7 ( 0.21212 )
+ total usages: 74 usages not from cdfers: 8 ( 0.10811 )
+
+#gintamaspillage
+total users: 45 not from cdf: 3 ( 0.06667 )
+ total usages: 86 usages not from cdfers: 4 ( 0.04651 )
+
+#takaradasalute
+total users: 64 not from cdf: 11 ( 0.17188 )
+ total usages: 191 usages not from cdfers: 11 ( 0.05759 )
+
+#jibrilaww
+total users: 45 not from cdf: 1 ( 0.02222 )
+ total usages: 173 usages not from cdfers: 1 ( 0.00578 )
+
+#overwhelmed
+total users: 403 not from cdf: 240 ( 0.59553 )
+ total usages: 593 usages not from cdfers: 260 ( 0.43845 )
+
+#naziloli
+total users: 40 not from cdf: 8 ( 0.2 )
+ total usages: 75 usages not from cdfers: 14 ( 0.18667 )
+
+#hououinseesit
+total users: 25 not from cdf: 7 ( 0.28 )
+ total usages: 88 usages not from cdfers: 11 ( 0.125 )
+
+#sadholo
+total users: 195 not from cdf: 47 ( 0.24103 )
+ total usages: 1384 usages not from cdfers: 101 ( 0.07298 )
+
+#ok_hand
+total users: 47 not from cdf: 9 ( 0.19149 )
+ total usages: 122 usages not from cdfers: 9 ( 0.07377 )
+
+#fujostare
+total users: 34 not from cdf: 6 ( 0.17647 )
+ total usages: 104 usages not from cdfers: 6 ( 0.05769 )
+
+#misakiteehee
+total users: 21 not from cdf: 1 ( 0.04762 )
+ total usages: 39 usages not from cdfers: 1 ( 0.02564 )
+
+#wallbang
+total users: 75 not from cdf: 13 ( 0.17333 )
+ total usages: 229 usages not from cdfers: 18 ( 0.0786 )
+
+#kumikolook
+total users: 51 not from cdf: 5 ( 0.09804 )
+ total usages: 256 usages not from cdfers: 5 ( 0.01953 )
+
+#takasakiapproves
+total users: 41 not from cdf: 6 ( 0.14634 )
+ total usages: 225 usages not from cdfers: 6 ( 0.02667 )
+
+#mug6
+total users: 30 not from cdf: 0 ( 0.0 )
+ total usages: 50 usages not from cdfers: 0 ( 0.0 )
+
+#crazedlaugh
+total users: 51 not from cdf: 5 ( 0.09804 )
+ total usages: 169 usages not from cdfers: 9 ( 0.05325 )
+
+#giveuponlife
+total users: 105 not from cdf: 7 ( 0.06667 )
+ total usages: 253 usages not from cdfers: 7 ( 0.02767 )
+
+#rinkek
+total users: 87 not from cdf: 13 ( 0.14943 )
+ total usages: 396 usages not from cdfers: 21 ( 0.05303 )
+
+#barakamonnotcool
+total users: 60 not from cdf: 4 ( 0.06667 )
+ total usages: 112 usages not from cdfers: 5 ( 0.04464 )
+
+#bearwithme
+total users: 22 not from cdf: 1 ( 0.04545 )
+ total usages: 55 usages not from cdfers: 1 ( 0.01818 )
+
+#slightoverreaction
+total users: 96 not from cdf: 10 ( 0.10417 )
+ total usages: 354 usages not from cdfers: 18 ( 0.05085 )
+
+#criticism
+total users: 1844 not from cdf: 1410 ( 0.76464 )
+ total usages: 3433 usages not from cdfers: 2045 ( 0.59569 )
+
+#pleasetellmemore
+total users: 18 not from cdf: 1 ( 0.05556 )
+ total usages: 66 usages not from cdfers: 1 ( 0.01515 )
+
+#csikon
+total users: 62 not from cdf: 6 ( 0.09677 )
+ total usages: 381 usages not from cdfers: 9 ( 0.02362 )
+
+#trollarcher
+total users: 37 not from cdf: 9 ( 0.24324 )
+ total usages: 91 usages not from cdfers: 18 ( 0.1978 )
+
+#banjo
+total users: 156 not from cdf: 39 ( 0.25 )
+ total usages: 590 usages not from cdfers: 46 ( 0.07797 )
+
+#niconicono
+total users: 11 not from cdf: 1 ( 0.09091 )
+ total usages: 27 usages not from cdfers: 1 ( 0.03704 )
+
+#modsalute
+total users: 61 not from cdf: 9 ( 0.14754 )
+ total usages: 312 usages not from cdfers: 11 ( 0.03526 )
+
+#laughter
+total users: 684 not from cdf: 400 ( 0.5848 )
+ total usages: 4318 usages not from cdfers: 526 ( 0.12182 )
+
+#kaorusmile
+total users: 21 not from cdf: 0 ( 0.0 )
+ total usages: 71 usages not from cdfers: 0 ( 0.0 )
+
+#stare
+total users: 422 not from cdf: 265 ( 0.62796 )
+ total usages: 672 usages not from cdfers: 297 ( 0.44196 )
+
+#brokenkokoro
+total users: 15 not from cdf: 1 ( 0.06667 )
+ total usages: 28 usages not from cdfers: 1 ( 0.03571 )
+
+#gintamacrushed
+total users: 33 not from cdf: 4 ( 0.12121 )
+ total usages: 50 usages not from cdfers: 10 ( 0.2 )
+
+#biiru
+total users: 38 not from cdf: 6 ( 0.15789 )
+ total usages: 82 usages not from cdfers: 6 ( 0.07317 )
+
+#konosubawot2
+total users: 64 not from cdf: 13 ( 0.20312 )
+ total usages: 142 usages not from cdfers: 19 ( 0.1338 )
+
+#doggo
+total users: 227 not from cdf: 99 ( 0.43612 )
+ total usages: 616 usages not from cdfers: 142 ( 0.23052 )
+
+#jibrilfetish
+total users: 33 not from cdf: 5 ( 0.15152 )
+ total usages: 57 usages not from cdfers: 5 ( 0.08772 )
+
+#k-on-hug
+total users: 102 not from cdf: 10 ( 0.09804 )
+ total usages: 1487 usages not from cdfers: 21 ( 0.01412 )
+
+#teekyuuhype
+total users: 54 not from cdf: 3 ( 0.05556 )
+ total usages: 286 usages not from cdfers: 3 ( 0.01049 )
+
+#smugillya
+total users: 26 not from cdf: 1 ( 0.03846 )
+ total usages: 79 usages not from cdfers: 1 ( 0.01266 )
+
+#makicry
+total users: 76 not from cdf: 8 ( 0.10526 )
+ total usages: 939 usages not from cdfers: 19 ( 0.02023 )
+
+#whisperwhisper
+total users: 68 not from cdf: 1 ( 0.01471 )
+ total usages: 388 usages not from cdfers: 1 ( 0.00258 )
+
+#konosubot
+total users: 15 not from cdf: 1 ( 0.06667 )
+ total usages: 22 usages not from cdfers: 1 ( 0.04545 )
+
+#notaccordingtokeikaku
+total users: 24 not from cdf: 6 ( 0.25 )
+ total usages: 52 usages not from cdfers: 9 ( 0.17308 )
+
+#excitedyui
+total users: 122 not from cdf: 23 ( 0.18852 )
+ total usages: 375 usages not from cdfers: 26 ( 0.06933 )
+
+#akkotears
+total users: 168 not from cdf: 43 ( 0.25595 )
+ total usages: 561 usages not from cdfers: 61 ( 0.10873 )
+
+#cup1
+total users: 49 not from cdf: 0 ( 0.0 )
+ total usages: 152 usages not from cdfers: 0 ( 0.0 )
+
+#cup3
+total users: 34 not from cdf: 1 ( 0.02941 )
+ total usages: 82 usages not from cdfers: 1 ( 0.0122 )
+
+#assman
+total users: 106 not from cdf: 47 ( 0.4434 )
+ total usages: 240 usages not from cdfers: 70 ( 0.29167 )
+
+#cup6
+total users: 43 not from cdf: 5 ( 0.11628 )
+ total usages: 155 usages not from cdfers: 5 ( 0.03226 )
+
+#hahahawhat
+total users: 77 not from cdf: 9 ( 0.11688 )
+ total usages: 153 usages not from cdfers: 13 ( 0.08497 )
+
+#haruhiisnotamused
+total users: 60 not from cdf: 16 ( 0.26667 )
+ total usages: 143 usages not from cdfers: 17 ( 0.11888 )
+
+#cup5
+total users: 44 not from cdf: 5 ( 0.11364 )
+ total usages: 126 usages not from cdfers: 5 ( 0.03968 )
+
+#kobeniblush
+total users: 57 not from cdf: 5 ( 0.08772 )
+ total usages: 203 usages not from cdfers: 9 ( 0.04433 )
+
+#edneedsdis
+total users: 40 not from cdf: 3 ( 0.075 )
+ total usages: 116 usages not from cdfers: 3 ( 0.02586 )
+
+#kotourashock
+total users: 49 not from cdf: 3 ( 0.06122 )
+ total usages: 213 usages not from cdfers: 3 ( 0.01408 )
+
+#annoyedkiki
+total users: 39 not from cdf: 3 ( 0.07692 )
+ total usages: 105 usages not from cdfers: 4 ( 0.0381 )
+
+#embarassedisla
+total users: 14 not from cdf: 0 ( 0.0 )
+ total usages: 23 usages not from cdfers: 0 ( 0.0 )
+
+#chiyomad
+total users: 24 not from cdf: 4 ( 0.16667 )
+ total usages: 55 usages not from cdfers: 4 ( 0.07273 )
+
+#abandonthread
+total users: 66 not from cdf: 8 ( 0.12121 )
+ total usages: 191 usages not from cdfers: 8 ( 0.04188 )
+
+#squee
+total users: 156 not from cdf: 46 ( 0.29487 )
+ total usages: 565 usages not from cdfers: 67 ( 0.11858 )
+
+#cup4
+total users: 45 not from cdf: 6 ( 0.13333 )
+ total usages: 156 usages not from cdfers: 6 ( 0.03846 )
+
+#smugshinobu
+total users: 39 not from cdf: 6 ( 0.15385 )
+ total usages: 119 usages not from cdfers: 8 ( 0.06723 )
+
+#delicioustears
+total users: 30 not from cdf: 5 ( 0.16667 )
+ total usages: 72 usages not from cdfers: 5 ( 0.06944 )
+
+#helmetbro
+total users: 185 not from cdf: 43 ( 0.23243 )
+ total usages: 1546 usages not from cdfers: 59 ( 0.03816 )
+
+#comfy
+total users: 1045 not from cdf: 681 ( 0.65167 )
+ total usages: 2343 usages not from cdfers: 1017 ( 0.43406 )
+
+#lewdgyaru
+total users: 60 not from cdf: 3 ( 0.05 )
+ total usages: 406 usages not from cdfers: 4 ( 0.00985 )
+
+#peasants
+total users: 273 not from cdf: 123 ( 0.45055 )
+ total usages: 757 usages not from cdfers: 163 ( 0.21532 )
+
+#howcouldyou
+total users: 39 not from cdf: 2 ( 0.05128 )
+ total usages: 125 usages not from cdfers: 2 ( 0.016 )
+
+#flclawe
+total users: 17 not from cdf: 1 ( 0.05882 )
+ total usages: 46 usages not from cdfers: 2 ( 0.04348 )
+
+#flattered
+total users: 144 not from cdf: 41 ( 0.28472 )
+ total usages: 507 usages not from cdfers: 43 ( 0.08481 )
+
+#evilgrin
+total users: 156 not from cdf: 33 ( 0.21154 )
+ total usages: 779 usages not from cdfers: 65 ( 0.08344 )
+
+#gintamasunlight
+total users: 18 not from cdf: 2 ( 0.11111 )
+ total usages: 26 usages not from cdfers: 2 ( 0.07692 )
+
+#comewithmeifyouwanttobebestgirl
+total users: 14 not from cdf: 1 ( 0.07143 )
+ total usages: 21 usages not from cdfers: 1 ( 0.04762 )
+
+#konosubawot4
+total users: 16 not from cdf: 0 ( 0.0 )
+ total usages: 44 usages not from cdfers: 0 ( 0.0 )
+
+#slapbet
+total users: 30 not from cdf: 5 ( 0.16667 )
+ total usages: 109 usages not from cdfers: 5 ( 0.04587 )
+
+#ilovethiskindofshit
+total users: 90 not from cdf: 6 ( 0.06667 )
+ total usages: 395 usages not from cdfers: 6 ( 0.01519 )
+
+#cokemasterrace
+total users: 110 not from cdf: 21 ( 0.19091 )
+ total usages: 284 usages not from cdfers: 38 ( 0.1338 )
+
+#selfcontrol
+total users: 31 not from cdf: 2 ( 0.06452 )
+ total usages: 121 usages not from cdfers: 2 ( 0.01653 )
+
+#shirayukieavesdrop
+total users: 54 not from cdf: 2 ( 0.03704 )
+ total usages: 313 usages not from cdfers: 3 ( 0.00958 )
+
+#flyingbunsofdoom
+total users: 83 not from cdf: 13 ( 0.15663 )
+ total usages: 290 usages not from cdfers: 14 ( 0.04828 )
+
+#izananotthisshitagain
+total users: 8 not from cdf: 0 ( 0.0 )
+ total usages: 10 usages not from cdfers: 0 ( 0.0 )
+
+#recoil
+total users: 82 not from cdf: 48 ( 0.58537 )
+ total usages: 136 usages not from cdfers: 50 ( 0.36765 )
+
+#saehug
+total users: 35 not from cdf: 3 ( 0.08571 )
+ total usages: 354 usages not from cdfers: 5 ( 0.01412 )
+
+#saitamadeathstare
+total users: 20 not from cdf: 3 ( 0.15 )
+ total usages: 31 usages not from cdfers: 3 ( 0.09677 )
+
+#mandom
+total users: 52 not from cdf: 20 ( 0.38462 )
+ total usages: 81 usages not from cdfers: 21 ( 0.25926 )
+
+#lwahorror
+total users: 45 not from cdf: 7 ( 0.15556 )
+ total usages: 106 usages not from cdfers: 8 ( 0.07547 )
+
+#lolipolice
+total users: 85 not from cdf: 30 ( 0.35294 )
+ total usages: 174 usages not from cdfers: 36 ( 0.2069 )
+
+#taigaheadache
+total users: 51 not from cdf: 6 ( 0.11765 )
+ total usages: 102 usages not from cdfers: 11 ( 0.10784 )
+
+#hyoukanod
+total users: 9 not from cdf: 0 ( 0.0 )
+ total usages: 14 usages not from cdfers: 0 ( 0.0 )
+
+#nocomment
+total users: 31 not from cdf: 2 ( 0.06452 )
+ total usages: 65 usages not from cdfers: 4 ( 0.06154 )
+
+#exciteutawarerumono
+total users: 34 not from cdf: 0 ( 0.0 )
+ total usages: 101 usages not from cdfers: 0 ( 0.0 )
+
+#gintamathispleasesme
+total users: 98 not from cdf: 18 ( 0.18367 )
+ total usages: 360 usages not from cdfers: 22 ( 0.06111 )
+
+#getout
+total users: 57 not from cdf: 6 ( 0.10526 )
+ total usages: 223 usages not from cdfers: 6 ( 0.02691 )
+
+#toradorasalute
+total users: 162 not from cdf: 31 ( 0.19136 )
+ total usages: 1120 usages not from cdfers: 50 ( 0.04464 )
+
+#kukuku2
+total users: 46 not from cdf: 5 ( 0.1087 )
+ total usages: 128 usages not from cdfers: 5 ( 0.03906 )
+
+#yanderebot
+total users: 26 not from cdf: 1 ( 0.03846 )
+ total usages: 58 usages not from cdfers: 2 ( 0.03448 )
+
+#bitchplease
+total users: 26 not from cdf: 1 ( 0.03846 )
+ total usages: 88 usages not from cdfers: 1 ( 0.01136 )
+
+#grouphug
+total users: 61 not from cdf: 3 ( 0.04918 )
+ total usages: 208 usages not from cdfers: 3 ( 0.01442 )
+
+#ok
+total users: 7424 not from cdf: 6563 ( 0.88402 )
+ total usages: 17802 usages not from cdfers: 11743 ( 0.65964 )
+
+#shirayukismile
+total users: 15 not from cdf: 1 ( 0.06667 )
+ total usages: 53 usages not from cdfers: 1 ( 0.01887 )
+
+#thoughtful
+total users: 355 not from cdf: 227 ( 0.63944 )
+ total usages: 789 usages not from cdfers: 257 ( 0.32573 )
+
+#mangaka
+total users: 1132 not from cdf: 827 ( 0.73057 )
+ total usages: 2132 usages not from cdfers: 1147 ( 0.53799 )
+
+#spookyglasses
+total users: 19 not from cdf: 0 ( 0.0 )
+ total usages: 33 usages not from cdfers: 0 ( 0.0 )
+
+#etotamadunno
+total users: 47 not from cdf: 4 ( 0.08511 )
+ total usages: 177 usages not from cdfers: 5 ( 0.02825 )
+
+#not-raining
+total users: 156 not from cdf: 67 ( 0.42949 )
+ total usages: 367 usages not from cdfers: 93 ( 0.25341 )
+
+#shirayukifuckinreally
+total users: 25 not from cdf: 4 ( 0.16 )
+ total usages: 57 usages not from cdfers: 5 ( 0.08772 )
+
+#TOMODA
+total users: 54 not from cdf: 30 ( 0.55556 )
+ total usages: 86 usages not from cdfers: 42 ( 0.48837 )
+
+#woo
+total users: 386 not from cdf: 177 ( 0.45855 )
+ total usages: 2047 usages not from cdfers: 223 ( 0.10894 )
+
+#hardtruthbot
+total users: 2 not from cdf: 0 ( 0.0 )
+ total usages: 3 usages not from cdfers: 0 ( 0.0 )
+
+#adminsdidwhat
+total users: 31 not from cdf: 5 ( 0.16129 )
+ total usages: 44 usages not from cdfers: 9 ( 0.20455 )
+
+#scrumptiouslymoe
+total users: 139 not from cdf: 22 ( 0.15827 )
+ total usages: 471 usages not from cdfers: 28 ( 0.05945 )
+
+#sleepingcutie
+total users: 68 not from cdf: 0 ( 0.0 )
+ total usages: 653 usages not from cdfers: 0 ( 0.0 )
+
+#badassmugi
+total users: 30 not from cdf: 1 ( 0.03333 )
+ total usages: 60 usages not from cdfers: 1 ( 0.01667 )
+
+#aliens
+total users: 1111 not from cdf: 813 ( 0.73177 )
+ total usages: 1825 usages not from cdfers: 1035 ( 0.56712 )
+
+#kannathumbs
+total users: 105 not from cdf: 13 ( 0.12381 )
+ total usages: 826 usages not from cdfers: 13 ( 0.01574 )
+
+#nottodisushittoagen
+total users: 18 not from cdf: 1 ( 0.05556 )
+ total usages: 38 usages not from cdfers: 1 ( 0.02632 )
+
+#happydera
+total users: 31 not from cdf: 3 ( 0.09677 )
+ total usages: 151 usages not from cdfers: 3 ( 0.01987 )
+
+#ohmygod
+total users: 73 not from cdf: 25 ( 0.34247 )
+ total usages: 168 usages not from cdfers: 48 ( 0.28571 )
+
+#protest
+total users: 229 not from cdf: 113 ( 0.49345 )
+ total usages: 410 usages not from cdfers: 126 ( 0.30732 )
+
+#megubeer
+total users: 37 not from cdf: 8 ( 0.21622 )
+ total usages: 63 usages not from cdfers: 8 ( 0.12698 )
+
+#cheekygahara
+total users: 54 not from cdf: 7 ( 0.12963 )
+ total usages: 170 usages not from cdfers: 17 ( 0.1 )
+
+#zetsuboushta
+total users: 27 not from cdf: 2 ( 0.07407 )
+ total usages: 52 usages not from cdfers: 2 ( 0.03846 )
+
+#mug9
+total users: 42 not from cdf: 0 ( 0.0 )
+ total usages: 123 usages not from cdfers: 0 ( 0.0 )
+
+#lwahorror2
+total users: 43 not from cdf: 5 ( 0.11628 )
+ total usages: 65 usages not from cdfers: 5 ( 0.07692 )
+
+#arakawascream
+total users: 14 not from cdf: 0 ( 0.0 )
+ total usages: 25 usages not from cdfers: 0 ( 0.0 )
+
+#sweating
+total users: 245 not from cdf: 131 ( 0.53469 )
+ total usages: 404 usages not from cdfers: 144 ( 0.35644 )
+
+#hypeoverload
+total users: 70 not from cdf: 8 ( 0.11429 )
+ total usages: 345 usages not from cdfers: 11 ( 0.03188 )
+
+#hnng
+total users: 102 not from cdf: 18 ( 0.17647 )
+ total usages: 359 usages not from cdfers: 26 ( 0.07242 )
+
+#annoyedmayaka
+total users: 33 not from cdf: 2 ( 0.06061 )
+ total usages: 54 usages not from cdfers: 2 ( 0.03704 )
+
+#fujoship
+total users: 43 not from cdf: 3 ( 0.06977 )
+ total usages: 112 usages not from cdfers: 3 ( 0.02679 )
+
+#utahapraises
+total users: 134 not from cdf: 19 ( 0.14179 )
+ total usages: 857 usages not from cdfers: 24 ( 0.028 )
+
+#katoupls
+total users: 72 not from cdf: 9 ( 0.125 )
+ total usages: 326 usages not from cdfers: 12 ( 0.03681 )
+
+#kumikotears
+total users: 37 not from cdf: 1 ( 0.02703 )
+ total usages: 123 usages not from cdfers: 1 ( 0.00813 )
+
+#kyonfacepalm
+total users: 65 not from cdf: 6 ( 0.09231 )
+ total usages: 274 usages not from cdfers: 7 ( 0.02555 )
+
+#happysaitama
+total users: 48 not from cdf: 9 ( 0.1875 )
+ total usages: 105 usages not from cdfers: 13 ( 0.12381 )
+
+#peace
+total users: 1648 not from cdf: 1252 ( 0.75971 )
+ total usages: 3152 usages not from cdfers: 1604 ( 0.50888 )
+
+#lesbians
+total users: 327 not from cdf: 190 ( 0.58104 )
+ total usages: 683 usages not from cdfers: 243 ( 0.35578 )
+
+#poltears
+total users: 42 not from cdf: 12 ( 0.28571 )
+ total usages: 123 usages not from cdfers: 18 ( 0.14634 )
+
+#trynottocry
+total users: 133 not from cdf: 53 ( 0.3985 )
+ total usages: 300 usages not from cdfers: 77 ( 0.25667 )
+
+#katoupout
+total users: 41 not from cdf: 0 ( 0.0 )
+ total usages: 210 usages not from cdfers: 0 ( 0.0 )
+
+#cooresto
+total users: 31 not from cdf: 2 ( 0.06452 )
+ total usages: 168 usages not from cdfers: 3 ( 0.01786 )
+
+#taigasigh
+total users: 128 not from cdf: 22 ( 0.17188 )
+ total usages: 722 usages not from cdfers: 37 ( 0.05125 )
+
+#combo
+total users: 667 not from cdf: 442 ( 0.66267 )
+ total usages: 997 usages not from cdfers: 509 ( 0.51053 )
+
+#heart-thumbs-up
+total users: 51 not from cdf: 13 ( 0.2549 )
+ total usages: 105 usages not from cdfers: 13 ( 0.12381 )
+
+#asunanotamused
+total users: 10 not from cdf: 1 ( 0.1 )
+ total usages: 19 usages not from cdfers: 1 ( 0.05263 )
+
+#toradorable
+total users: 57 not from cdf: 15 ( 0.26316 )
+ total usages: 92 usages not from cdfers: 17 ( 0.18478 )
+
+#wallpunch
+total users: 76 not from cdf: 10 ( 0.13158 )
+ total usages: 254 usages not from cdfers: 14 ( 0.05512 )
+
+#morethanonewaifu
+total users: 167 not from cdf: 27 ( 0.16168 )
+ total usages: 953 usages not from cdfers: 30 ( 0.03148 )
+
+#hisokaclown
+total users: 18 not from cdf: 1 ( 0.05556 )
+ total usages: 84 usages not from cdfers: 1 ( 0.0119 )
+
+#ohshit
+total users: 26 not from cdf: 5 ( 0.19231 )
+ total usages: 52 usages not from cdfers: 6 ( 0.11538 )
+
+#dancewithit
+total users: 40 not from cdf: 2 ( 0.05 )
+ total usages: 142 usages not from cdfers: 3 ( 0.02113 )
+
+#oooreally
+total users: 14 not from cdf: 1 ( 0.07143 )
+ total usages: 29 usages not from cdfers: 1 ( 0.03448 )
+
+#ohfuck
+total users: 81 not from cdf: 15 ( 0.18519 )
+ total usages: 235 usages not from cdfers: 24 ( 0.10213 )
+
+#nico-heart
+total users: 63 not from cdf: 22 ( 0.34921 )
+ total usages: 143 usages not from cdfers: 33 ( 0.23077 )
+
+#banhammer
+total users: 35 not from cdf: 14 ( 0.4 )
+ total usages: 94 usages not from cdfers: 31 ( 0.32979 )
+
+#instillfear
+total users: 18 not from cdf: 1 ( 0.05556 )
+ total usages: 44 usages not from cdfers: 1 ( 0.02273 )
+
+#fistbump
+total users: 152 not from cdf: 29 ( 0.19079 )
+ total usages: 809 usages not from cdfers: 40 ( 0.04944 )
+
+#mug8
+total users: 41 not from cdf: 3 ( 0.07317 )
+ total usages: 327 usages not from cdfers: 5 ( 0.01529 )
+
+#breakingnews
+total users: 73 not from cdf: 7 ( 0.09589 )
+ total usages: 341 usages not from cdfers: 8 ( 0.02346 )
+
+#mitsukishock
+total users: 20 not from cdf: 3 ( 0.15 )
+ total usages: 38 usages not from cdfers: 4 ( 0.10526 )
+
+#smugpoint
+total users: 102 not from cdf: 19 ( 0.18627 )
+ total usages: 383 usages not from cdfers: 20 ( 0.05222 )
+
+#oilup
+total users: 62 not from cdf: 14 ( 0.22581 )
+ total usages: 184 usages not from cdfers: 15 ( 0.08152 )
+
+#plebgetawayfromme
+total users: 28 not from cdf: 0 ( 0.0 )
+ total usages: 136 usages not from cdfers: 0 ( 0.0 )
+
+#shatteredsaten
+total users: 72 not from cdf: 5 ( 0.06944 )
+ total usages: 372 usages not from cdfers: 6 ( 0.01613 )
+
+#shitposting
+total users: 263 not from cdf: 119 ( 0.45247 )
+ total usages: 717 usages not from cdfers: 134 ( 0.18689 )
+
+#nyanpasu
+total users: 161 not from cdf: 48 ( 0.29814 )
+ total usages: 612 usages not from cdfers: 57 ( 0.09314 )
+
+#bestiacheckyourprivilage
+total users: 10 not from cdf: 0 ( 0.0 )
+ total usages: 13 usages not from cdfers: 0 ( 0.0 )
+
+#calmdown
+total users: 13 not from cdf: 0 ( 0.0 )
+ total usages: 40 usages not from cdfers: 0 ( 0.0 )
+
+#bearhug
+total users: 73 not from cdf: 1 ( 0.0137 )
+ total usages: 574 usages not from cdfers: 1 ( 0.00174 )
+
+#niatilt
+total users: 88 not from cdf: 12 ( 0.13636 )
+ total usages: 374 usages not from cdfers: 15 ( 0.04011 )
+
+#mechablush
+total users: 32 not from cdf: 2 ( 0.0625 )
+ total usages: 713 usages not from cdfers: 2 ( 0.00281 )
+
+#rengehype
+total users: 121 not from cdf: 9 ( 0.07438 )
+ total usages: 1324 usages not from cdfers: 11 ( 0.00831 )
+
+#mindblank
+total users: 49 not from cdf: 5 ( 0.10204 )
+ total usages: 110 usages not from cdfers: 5 ( 0.04545 )
+
+#hajimepout
+total users: 116 not from cdf: 4 ( 0.03448 )
+ total usages: 1001 usages not from cdfers: 4 ( 0.004 )
+
+#disbelief
+total users: 646 not from cdf: 444 ( 0.68731 )
+ total usages: 999 usages not from cdfers: 526 ( 0.52653 )
+
+#konodioda
+total users: 58 not from cdf: 15 ( 0.25862 )
+ total usages: 173 usages not from cdfers: 20 ( 0.11561 )
+
+#blushubot
+total users: 11 not from cdf: 3 ( 0.27273 )
+ total usages: 49 usages not from cdfers: 3 ( 0.06122 )
+
+#whatisthisguydoing
+total users: 40 not from cdf: 4 ( 0.1 )
+ total usages: 191 usages not from cdfers: 7 ( 0.03665 )
+
+#scaredmio
+total users: 115 not from cdf: 16 ( 0.13913 )
+ total usages: 660 usages not from cdfers: 25 ( 0.03788 )
+
+#facepalm
+total users: 174 not from cdf: 84 ( 0.48276 )
+ total usages: 361 usages not from cdfers: 98 ( 0.27147 )
+
+#crumblingdespair
+total users: 43 not from cdf: 5 ( 0.11628 )
+ total usages: 82 usages not from cdfers: 5 ( 0.06098 )
+
+#tearsofabestgirl
+total users: 31 not from cdf: 9 ( 0.29032 )
+ total usages: 69 usages not from cdfers: 10 ( 0.14493 )
+
+#wideeyed
+total users: 16 not from cdf: 3 ( 0.1875 )
+ total usages: 33 usages not from cdfers: 5 ( 0.15152 )
+
+#headpat
+total users: 161 not from cdf: 62 ( 0.38509 )
+ total usages: 696 usages not from cdfers: 76 ( 0.1092 )
+
+#girlishploy
+total users: 45 not from cdf: 6 ( 0.13333 )
+ total usages: 130 usages not from cdfers: 6 ( 0.04615 )
+
+#imdone
+total users: 95 not from cdf: 11 ( 0.11579 )
+ total usages: 282 usages not from cdfers: 12 ( 0.04255 )
+
+#comfortfood
+total users: 115 not from cdf: 26 ( 0.22609 )
+ total usages: 257 usages not from cdfers: 37 ( 0.14397 )
+
+#yuishrug
+total users: 202 not from cdf: 23 ( 0.11386 )
+ total usages: 3383 usages not from cdfers: 46 ( 0.0136 )
+
+#annoyedsaber
+total users: 21 not from cdf: 2 ( 0.09524 )
+ total usages: 24 usages not from cdfers: 2 ( 0.08333 )
+
+#marikalewd
+total users: 26 not from cdf: 0 ( 0.0 )
+ total usages: 71 usages not from cdfers: 0 ( 0.0 )
+
+#elsieqq
+total users: 78 not from cdf: 10 ( 0.12821 )
+ total usages: 354 usages not from cdfers: 23 ( 0.06497 )
+
+#sowwy
+total users: 40 not from cdf: 9 ( 0.225 )
+ total usages: 125 usages not from cdfers: 9 ( 0.072 )
+
+#shutupandtakemymoney
+total users: 55 not from cdf: 8 ( 0.14545 )
+ total usages: 142 usages not from cdfers: 11 ( 0.07746 )
+
+#nononkek
+total users: 27 not from cdf: 2 ( 0.07407 )
+ total usages: 92 usages not from cdfers: 2 ( 0.02174 )
+
+#illyastare
+total users: 56 not from cdf: 12 ( 0.21429 )
+ total usages: 96 usages not from cdfers: 22 ( 0.22917 )
+
+#hisocuck
+total users: 50 not from cdf: 11 ( 0.22 )
+ total usages: 104 usages not from cdfers: 13 ( 0.125 )
+
+#wow-really
+total users: 1798 not from cdf: 1370 ( 0.76196 )
+ total usages: 3723 usages not from cdfers: 2011 ( 0.54016 )
+
+#fedup
+total users: 62 not from cdf: 7 ( 0.1129 )
+ total usages: 164 usages not from cdfers: 7 ( 0.04268 )
+
+#volibearQ
+total users: 117 not from cdf: 16 ( 0.13675 )
+ total usages: 405 usages not from cdfers: 18 ( 0.04444 )
+
+#goblet1
+total users: 52 not from cdf: 5 ( 0.09615 )
+ total usages: 333 usages not from cdfers: 6 ( 0.01802 )
+
+#peacepeace
+total users: 38 not from cdf: 11 ( 0.28947 )
+ total usages: 64 usages not from cdfers: 12 ( 0.1875 )
+
+#meguminthumbsup
+total users: 80 not from cdf: 21 ( 0.2625 )
+ total usages: 523 usages not from cdfers: 37 ( 0.07075 )
+
+#schemingsaten
+total users: 158 not from cdf: 19 ( 0.12025 )
+ total usages: 2618 usages not from cdfers: 29 ( 0.01108 )
+
+#everythingisfine
+total users: 112 not from cdf: 18 ( 0.16071 )
+ total usages: 516 usages not from cdfers: 25 ( 0.04845 )
+
+#moeshitarcher
+total users: 72 not from cdf: 13 ( 0.18056 )
+ total usages: 193 usages not from cdfers: 21 ( 0.10881 )
+
+#dontdometh
+total users: 23 not from cdf: 1 ( 0.04348 )
+ total usages: 47 usages not from cdfers: 1 ( 0.02128 )
+
+#watashihasdeclined
+total users: 35 not from cdf: 2 ( 0.05714 )
+ total usages: 195 usages not from cdfers: 2 ( 0.01026 )
+
+#megushock
+total users: 51 not from cdf: 13 ( 0.2549 )
+ total usages: 157 usages not from cdfers: 17 ( 0.10828 )
+
+#mugistronk
+total users: 60 not from cdf: 7 ( 0.11667 )
+ total usages: 254 usages not from cdfers: 7 ( 0.02756 )
+
+#surprisedhifumi
+total users: 21 not from cdf: 3 ( 0.14286 )
+ total usages: 33 usages not from cdfers: 3 ( 0.09091 )
+
+#keikaku
+total users: 457 not from cdf: 329 ( 0.71991 )
+ total usages: 612 usages not from cdfers: 382 ( 0.62418 )
+
+#teehee
+total users: 155 not from cdf: 48 ( 0.30968 )
+ total usages: 562 usages not from cdfers: 60 ( 0.10676 )
+
+#smugobi
+total users: 36 not from cdf: 5 ( 0.13889 )
+ total usages: 84 usages not from cdfers: 5 ( 0.05952 )
+
+#lifeishard
+total users: 119 not from cdf: 17 ( 0.14286 )
+ total usages: 648 usages not from cdfers: 19 ( 0.02932 )
+
+#whatamireading
+total users: 49 not from cdf: 6 ( 0.12245 )
+ total usages: 111 usages not from cdfers: 7 ( 0.06306 )
+
+#prelenny
+total users: 35 not from cdf: 5 ( 0.14286 )
+ total usages: 62 usages not from cdfers: 5 ( 0.08065 )
+
+#mmmmyrgh
+total users: 38 not from cdf: 7 ( 0.18421 )
+ total usages: 151 usages not from cdfers: 12 ( 0.07947 )
+
+#kumikouninterested
+total users: 80 not from cdf: 7 ( 0.0875 )
+ total usages: 428 usages not from cdfers: 7 ( 0.01636 )
+
+#smuglancer
+total users: 27 not from cdf: 6 ( 0.22222 )
+ total usages: 72 usages not from cdfers: 8 ( 0.11111 )
+
+#yunosunglasses
+total users: 53 not from cdf: 2 ( 0.03774 )
+ total usages: 161 usages not from cdfers: 2 ( 0.01242 )
+
+#KUSOTTARE
+total users: 69 not from cdf: 20 ( 0.28986 )
+ total usages: 149 usages not from cdfers: 26 ( 0.1745 )
+
+#shinjimug
+total users: 45 not from cdf: 5 ( 0.11111 )
+ total usages: 149 usages not from cdfers: 6 ( 0.04027 )
+
+#cantbehelped
+total users: 90 not from cdf: 14 ( 0.15556 )
+ total usages: 639 usages not from cdfers: 19 ( 0.02973 )
+
+#ohnoudidnt
+total users: 13 not from cdf: 2 ( 0.15385 )
+ total usages: 18 usages not from cdfers: 2 ( 0.11111 )
+
+#niconoo
+total users: 11 not from cdf: 1 ( 0.09091 )
+ total usages: 16 usages not from cdfers: 1 ( 0.0625 )
+
+#akyuusqueel
+total users: 79 not from cdf: 8 ( 0.10127 )
+ total usages: 396 usages not from cdfers: 10 ( 0.02525 )
+
+#arresteddevelopment
+total users: 25 not from cdf: 2 ( 0.08 )
+ total usages: 67 usages not from cdfers: 3 ( 0.04478 )
+
+#mug3
+total users: 48 not from cdf: 8 ( 0.16667 )
+ total usages: 186 usages not from cdfers: 11 ( 0.05914 )
+
+#lovenectar
+total users: 42 not from cdf: 7 ( 0.16667 )
+ total usages: 93 usages not from cdfers: 7 ( 0.07527 )
+
+#uglycry
+total users: 32 not from cdf: 4 ( 0.125 )
+ total usages: 82 usages not from cdfers: 5 ( 0.06098 )
+
+#megumin
+total users: 1544 not from cdf: 1233 ( 0.79858 )
+ total usages: 2901 usages not from cdfers: 2000 ( 0.68942 )
+
+#helmetgril
+total users: 5 not from cdf: 0 ( 0.0 )
+ total usages: 7 usages not from cdfers: 0 ( 0.0 )
+
+#amurodealwithit
+total users: 28 not from cdf: 4 ( 0.14286 )
+ total usages: 134 usages not from cdfers: 6 ( 0.04478 )
+
+#salutegeo
+total users: 111 not from cdf: 23 ( 0.20721 )
+ total usages: 648 usages not from cdfers: 25 ( 0.03858 )
+
+#watashiworried
+total users: 53 not from cdf: 6 ( 0.11321 )
+ total usages: 229 usages not from cdfers: 6 ( 0.0262 )
+
+#duckhue
+total users: 12 not from cdf: 2 ( 0.16667 )
+ total usages: 32 usages not from cdfers: 2 ( 0.0625 )
+
+#osomatsurage
+total users: 13 not from cdf: 0 ( 0.0 )
+ total usages: 15 usages not from cdfers: 0 ( 0.0 )
+
+#annoyedkirito
+total users: 38 not from cdf: 5 ( 0.13158 )
+ total usages: 107 usages not from cdfers: 5 ( 0.04673 )
+
+#glasses-push
+total users: 59 not from cdf: 22 ( 0.37288 )
+ total usages: 138 usages not from cdfers: 22 ( 0.15942 )
+
+#dekuhype
+total users: 151 not from cdf: 27 ( 0.17881 )
+ total usages: 1083 usages not from cdfers: 54 ( 0.04986 )
+
+#concealedexcitement
+total users: 99 not from cdf: 10 ( 0.10101 )
+ total usages: 641 usages not from cdfers: 17 ( 0.02652 )
+
+#araragi-1
+total users: 176 not from cdf: 101 ( 0.57386 )
+ total usages: 586 usages not from cdfers: 273 ( 0.46587 )
+
+#cup2
+total users: 35 not from cdf: 4 ( 0.11429 )
+ total usages: 85 usages not from cdfers: 9 ( 0.10588 )
+
+#saesmile
+total users: 31 not from cdf: 3 ( 0.09677 )
+ total usages: 161 usages not from cdfers: 3 ( 0.01863 )
+
+#holdme
+total users: 105 not from cdf: 8 ( 0.07619 )
+ total usages: 1491 usages not from cdfers: 15 ( 0.01006 )
+
+#lewd
+total users: 1738 not from cdf: 1298 ( 0.74684 )
+ total usages: 4035 usages not from cdfers: 1761 ( 0.43643 )
+
+#nerr
+total users: 25 not from cdf: 3 ( 0.12 )
+ total usages: 49 usages not from cdfers: 6 ( 0.12245 )
+
+#labmembernumber009
+total users: 26 not from cdf: 4 ( 0.15385 )
+ total usages: 117 usages not from cdfers: 4 ( 0.03419 )
+
+#didyouseriouslyjustsaythat
+total users: 15 not from cdf: 1 ( 0.06667 )
+ total usages: 37 usages not from cdfers: 1 ( 0.02703 )
+
+#feelingloved
+total users: 100 not from cdf: 13 ( 0.13 )
+ total usages: 890 usages not from cdfers: 22 ( 0.02472 )
+
+#misakaheh
+total users: 21 not from cdf: 4 ( 0.19048 )
+ total usages: 39 usages not from cdfers: 4 ( 0.10256 )
+
+#dejected
+total users: 110 not from cdf: 33 ( 0.3 )
+ total usages: 283 usages not from cdfers: 41 ( 0.14488 )
+
+#blindinglight
+total users: 20 not from cdf: 1 ( 0.05 )
+ total usages: 38 usages not from cdfers: 1 ( 0.02632 )
+
+#cup8
+total users: 40 not from cdf: 0 ( 0.0 )
+ total usages: 90 usages not from cdfers: 0 ( 0.0 )
+
+#smughaikyuu
+total users: 26 not from cdf: 3 ( 0.11538 )
+ total usages: 67 usages not from cdfers: 4 ( 0.0597 )
+
+#watchadoin
+total users: 21 not from cdf: 1 ( 0.04762 )
+ total usages: 46 usages not from cdfers: 1 ( 0.02174 )
+
+#nuidideverythingright
+total users: 65 not from cdf: 12 ( 0.18462 )
+ total usages: 345 usages not from cdfers: 17 ( 0.04928 )
+
+#angrypout
+total users: 157 not from cdf: 24 ( 0.15287 )
+ total usages: 825 usages not from cdfers: 34 ( 0.04121 )
+
+#chinosmirk
+total users: 35 not from cdf: 2 ( 0.05714 )
+ total usages: 114 usages not from cdfers: 2 ( 0.01754 )
+
+#kurokokek
+total users: 25 not from cdf: 2 ( 0.08 )
+ total usages: 75 usages not from cdfers: 2 ( 0.02667 )
+
+#shhbabe
+total users: 26 not from cdf: 5 ( 0.19231 )
+ total usages: 50 usages not from cdfers: 5 ( 0.1 )
+
+#smugrose
+total users: 32 not from cdf: 6 ( 0.1875 )
+ total usages: 77 usages not from cdfers: 7 ( 0.09091 )
+
+#mywaifumadeyouasandwich
+total users: 48 not from cdf: 3 ( 0.0625 )
+ total usages: 83 usages not from cdfers: 3 ( 0.03614 )
+
+#frustration
+total users: 712 not from cdf: 453 ( 0.63624 )
+ total usages: 1754 usages not from cdfers: 541 ( 0.30844 )
+
+#healthypasstimes
+total users: 38 not from cdf: 5 ( 0.13158 )
+ total usages: 78 usages not from cdfers: 5 ( 0.0641 )
+
+#kms
+total users: 102 not from cdf: 38 ( 0.37255 )
+ total usages: 275 usages not from cdfers: 41 ( 0.14909 )
+
+#emptyinside
+total users: 146 not from cdf: 38 ( 0.26027 )
+ total usages: 344 usages not from cdfers: 66 ( 0.19186 )
+
+#nanami-hug
+total users: 70 not from cdf: 6 ( 0.08571 )
+ total usages: 319 usages not from cdfers: 8 ( 0.02508 )
+
+#sheerdisgust
+total users: 46 not from cdf: 7 ( 0.15217 )
+ total usages: 119 usages not from cdfers: 7 ( 0.05882 )
+
+#triggeredkillua
+total users: 21 not from cdf: 4 ( 0.19048 )
+ total usages: 40 usages not from cdfers: 4 ( 0.1 )
+
+#biribiricat
+total users: 52 not from cdf: 10 ( 0.19231 )
+ total usages: 76 usages not from cdfers: 17 ( 0.22368 )
+
+#badtaste
+total users: 89 not from cdf: 9 ( 0.10112 )
+ total usages: 369 usages not from cdfers: 9 ( 0.02439 )
+
+#ptsd
+total users: 978 not from cdf: 732 ( 0.74847 )
+ total usages: 1608 usages not from cdfers: 962 ( 0.59826 )
+
+#quality
+total users: 8326 not from cdf: 7234 ( 0.86884 )
+ total usages: 21135 usages not from cdfers: 13544 ( 0.64083 )
+
+#happyrem
+total users: 39 not from cdf: 14 ( 0.35897 )
+ total usages: 66 usages not from cdfers: 18 ( 0.27273 )
+
+#unsure
+total users: 666 not from cdf: 445 ( 0.66817 )
+ total usages: 1075 usages not from cdfers: 506 ( 0.4707 )
+
+#gununu
+total users: 19 not from cdf: 0 ( 0.0 )
+ total usages: 70 usages not from cdfers: 0 ( 0.0 )
+
+#head-tilt
+total users: 136 not from cdf: 67 ( 0.49265 )
+ total usages: 262 usages not from cdfers: 83 ( 0.31679 )
+
+#forbiddenlove
+total users: 77 not from cdf: 18 ( 0.23377 )
+ total usages: 185 usages not from cdfers: 20 ( 0.10811 )
+
+#frockychou
+total users: 30 not from cdf: 5 ( 0.16667 )
+ total usages: 68 usages not from cdfers: 6 ( 0.08824 )
+
+#elsiesigh
+total users: 85 not from cdf: 5 ( 0.05882 )
+ total usages: 366 usages not from cdfers: 6 ( 0.01639 )
+
+#yuitears
+total users: 174 not from cdf: 42 ( 0.24138 )
+ total usages: 918 usages not from cdfers: 78 ( 0.08497 )
+
+#mug5
+total users: 41 not from cdf: 3 ( 0.07317 )
+ total usages: 106 usages not from cdfers: 6 ( 0.0566 )
+
+#nosenpai
+total users: 65 not from cdf: 0 ( 0.0 )
+ total usages: 261 usages not from cdfers: 0 ( 0.0 )
+
+#kotori
+total users: 220 not from cdf: 117 ( 0.53182 )
+ total usages: 685 usages not from cdfers: 264 ( 0.3854 )
+
+#noice
+total users: 258 not from cdf: 197 ( 0.76357 )
+ total usages: 392 usages not from cdfers: 239 ( 0.60969 )
+
+#torrentialdownpour
+total users: 57 not from cdf: 13 ( 0.22807 )
+ total usages: 104 usages not from cdfers: 16 ( 0.15385 )
+
+#nichijouthumbs
+total users: 82 not from cdf: 13 ( 0.15854 )
+ total usages: 226 usages not from cdfers: 20 ( 0.0885 )
+
+#modabuse
+total users: 97 not from cdf: 8 ( 0.08247 )
+ total usages: 432 usages not from cdfers: 10 ( 0.02315 )
+
+#hyoukawink
+total users: 75 not from cdf: 10 ( 0.13333 )
+ total usages: 313 usages not from cdfers: 11 ( 0.03514 )
+
+#kayosmile
+total users: 38 not from cdf: 9 ( 0.23684 )
+ total usages: 75 usages not from cdfers: 11 ( 0.14667 )
+
+#brofist
+total users: 93 not from cdf: 19 ( 0.2043 )
+ total usages: 245 usages not from cdfers: 24 ( 0.09796 )
+
+#crazyhatgirlexcited
+total users: 21 not from cdf: 0 ( 0.0 )
+ total usages: 40 usages not from cdfers: 0 ( 0.0 )
+
+#fuckyou
+total users: 49 not from cdf: 6 ( 0.12245 )
+ total usages: 120 usages not from cdfers: 12 ( 0.1 )
+
+#justno
+total users: 60 not from cdf: 13 ( 0.21667 )
+ total usages: 174 usages not from cdfers: 15 ( 0.08621 )
+
+#ginapproves
+total users: 56 not from cdf: 11 ( 0.19643 )
+ total usages: 157 usages not from cdfers: 19 ( 0.12102 )
+
+#firstthinginthemorning
+total users: 47 not from cdf: 0 ( 0.0 )
+ total usages: 264 usages not from cdfers: 0 ( 0.0 )
+
+#rec
+total users: 456 not from cdf: 271 ( 0.5943 )
+ total usages: 1129 usages not from cdfers: 349 ( 0.30912 )
+
+#eyythisguy
+total users: 57 not from cdf: 7 ( 0.12281 )
+ total usages: 170 usages not from cdfers: 7 ( 0.04118 )
+
+#salt
+total users: 1368 not from cdf: 978 ( 0.71491 )
+ total usages: 2668 usages not from cdfers: 1355 ( 0.50787 )
+
+#trollnui
+total users: 16 not from cdf: 1 ( 0.0625 )
+ total usages: 95 usages not from cdfers: 1 ( 0.01053 )
+
+#SPORTS
+total users: 3078 not from cdf: 2400 ( 0.77973 )
+ total usages: 7939 usages not from cdfers: 4486 ( 0.56506 )
+
+#schwing
+total users: 56 not from cdf: 20 ( 0.35714 )
+ total usages: 93 usages not from cdfers: 20 ( 0.21505 )
+
+#thumbs-up
+total users: 245 not from cdf: 123 ( 0.50204 )
+ total usages: 475 usages not from cdfers: 136 ( 0.28632 )
+
+#judgesucy
+total users: 24 not from cdf: 2 ( 0.08333 )
+ total usages: 58 usages not from cdfers: 2 ( 0.03448 )
+
+#urbansmile
+total users: 127 not from cdf: 37 ( 0.29134 )
+ total usages: 569 usages not from cdfers: 56 ( 0.09842 )
+
+#emiliaohdear
+total users: 103 not from cdf: 26 ( 0.25243 )
+ total usages: 218 usages not from cdfers: 37 ( 0.16972 )
+
+#towel
+total users: 316 not from cdf: 162 ( 0.51266 )
+ total usages: 835 usages not from cdfers: 204 ( 0.24431 )
+
+#ohdear
+total users: 28 not from cdf: 3 ( 0.10714 )
+ total usages: 82 usages not from cdfers: 3 ( 0.03659 )
+
+#panic
+total users: 1199 not from cdf: 835 ( 0.69641 )
+ total usages: 3246 usages not from cdfers: 1196 ( 0.36845 )
+
+#hanasakueurgh
+total users: 42 not from cdf: 0 ( 0.0 )
+ total usages: 81 usages not from cdfers: 0 ( 0.0 )
+
+#konosubawot
+total users: 79 not from cdf: 28 ( 0.35443 )
+ total usages: 164 usages not from cdfers: 35 ( 0.21341 )
+
+#gendo-pls
+total users: 47 not from cdf: 2 ( 0.04255 )
+ total usages: 159 usages not from cdfers: 2 ( 0.01258 )
+
+#minoridenied
+total users: 23 not from cdf: 4 ( 0.17391 )
+ total usages: 47 usages not from cdfers: 4 ( 0.08511 )
+
+#loliwave
+total users: 141 not from cdf: 5 ( 0.03546 )
+ total usages: 1495 usages not from cdfers: 5 ( 0.00334 )
+
+#yousaidsomethingdumb
+total users: 109 not from cdf: 29 ( 0.26606 )
+ total usages: 657 usages not from cdfers: 42 ( 0.06393 )
+
+#thisisfine
+total users: 26 not from cdf: 4 ( 0.15385 )
+ total usages: 40 usages not from cdfers: 5 ( 0.125 )
+
+#mug7
+total users: 78 not from cdf: 7 ( 0.08974 )
+ total usages: 234 usages not from cdfers: 9 ( 0.03846 )
+
+#igiveup
+total users: 52 not from cdf: 2 ( 0.03846 )
+ total usages: 131 usages not from cdfers: 3 ( 0.0229 )
+
+#yuruyuriapprove
+total users: 59 not from cdf: 10 ( 0.16949 )
+ total usages: 217 usages not from cdfers: 13 ( 0.05991 )
+
+#eheheh
+total users: 105 not from cdf: 18 ( 0.17143 )
+ total usages: 861 usages not from cdfers: 23 ( 0.02671 )
+
+#garlock
+total users: 71 not from cdf: 10 ( 0.14085 )
+ total usages: 390 usages not from cdfers: 11 ( 0.02821 )
+
+#hackadollthumbsup
+total users: 28 not from cdf: 2 ( 0.07143 )
+ total usages: 147 usages not from cdfers: 3 ( 0.02041 )
+
+#smugasuna
+total users: 17 not from cdf: 1 ( 0.05882 )
+ total usages: 44 usages not from cdfers: 4 ( 0.09091 )
+
+#wow
+total users: 6888 not from cdf: 5934 ( 0.8615 )
+ total usages: 15822 usages not from cdfers: 9307 ( 0.58823 )
+
+#faito
+total users: 138 not from cdf: 13 ( 0.0942 )
+ total usages: 973 usages not from cdfers: 18 ( 0.0185 )
+
+#salute
+total users: 297 not from cdf: 132 ( 0.44444 )
+ total usages: 1268 usages not from cdfers: 153 ( 0.12066 )
+
+#mug2
+total users: 48 not from cdf: 5 ( 0.10417 )
+ total usages: 319 usages not from cdfers: 5 ( 0.01567 )
+
+#mug10
+total users: 20 not from cdf: 5 ( 0.25 )
+ total usages: 32 usages not from cdfers: 10 ( 0.3125 )
+
+#cateyes
+total users: 52 not from cdf: 6 ( 0.11538 )
+ total usages: 92 usages not from cdfers: 9 ( 0.09783 )
+
+#giveitback
+total users: 22 not from cdf: 1 ( 0.04545 )
+ total usages: 72 usages not from cdfers: 1 ( 0.01389 )
+
+#cup7
+total users: 96 not from cdf: 25 ( 0.26042 )
+ total usages: 247 usages not from cdfers: 47 ( 0.19028 )
+
+#sciencebringspeopletogether
+total users: 22 not from cdf: 4 ( 0.18182 )
+ total usages: 36 usages not from cdfers: 4 ( 0.11111 )
+
+#manly-tears
+total users: 119 not from cdf: 72 ( 0.60504 )
+ total usages: 202 usages not from cdfers: 80 ( 0.39604 )
+
+#kukuku
+total users: 107 not from cdf: 24 ( 0.2243 )
+ total usages: 626 usages not from cdfers: 26 ( 0.04153 )
+
+#bot-chan
+total users: 206 not from cdf: 74 ( 0.35922 )
+ total usages: 8723 usages not from cdfers: 96 ( 0.01101 )
+
+#feelsgoodman
+total users: 149 not from cdf: 67 ( 0.44966 )
+ total usages: 460 usages not from cdfers: 81 ( 0.17609 )
+
+#hellopolice
+total users: 62 not from cdf: 11 ( 0.17742 )
+ total usages: 150 usages not from cdfers: 12 ( 0.08 )
+
+#hunchedover
+total users: 18 not from cdf: 1 ( 0.05556 )
+ total usages: 26 usages not from cdfers: 1 ( 0.03846 )
+
+#yandereyuno
+total users: 20 not from cdf: 4 ( 0.2 )
+ total usages: 49 usages not from cdfers: 7 ( 0.14286 )
+
+#nicoisdone
+total users: 57 not from cdf: 5 ( 0.08772 )
+ total usages: 131 usages not from cdfers: 5 ( 0.03817 )
+
+#ohgodwhathaveidone
+total users: 44 not from cdf: 3 ( 0.06818 )
+ total usages: 97 usages not from cdfers: 3 ( 0.03093 )
+
+#nichijouqq
+total users: 28 not from cdf: 4 ( 0.14286 )
+ total usages: 34 usages not from cdfers: 4 ( 0.11765 )
+
+#psh-mongrels
+total users: 21 not from cdf: 6 ( 0.28571 )
+ total usages: 50 usages not from cdfers: 7 ( 0.14 )
+
+#chitogheh
+total users: 37 not from cdf: 6 ( 0.16216 )
+ total usages: 241 usages not from cdfers: 7 ( 0.02905 )
+
+#shh
+total users: 119 not from cdf: 51 ( 0.42857 )
+ total usages: 189 usages not from cdfers: 53 ( 0.28042 )
+
+#nicoheart
+total users: 91 not from cdf: 8 ( 0.08791 )
+ total usages: 676 usages not from cdfers: 12 ( 0.01775 )
+
+#curious
+total users: 3788 not from cdf: 3010 ( 0.79461 )
+ total usages: 9826 usages not from cdfers: 4382 ( 0.44596 )
+
+#shock
+total users: 1643 not from cdf: 1245 ( 0.75776 )
+ total usages: 2878 usages not from cdfers: 1672 ( 0.58096 )
+
+#mug4
+total users: 34 not from cdf: 4 ( 0.11765 )
+ total usages: 67 usages not from cdfers: 5 ( 0.07463 )
+
+#WRYYY
+total users: 33 not from cdf: 5 ( 0.15152 )
+ total usages: 66 usages not from cdfers: 6 ( 0.09091 )
+
+#thinkingtoohard
+total users: 119 not from cdf: 7 ( 0.05882 )
+ total usages: 954 usages not from cdfers: 10 ( 0.01048 )
+
+#vashheadscratch
+total users: 30 not from cdf: 2 ( 0.06667 )
+ total usages: 122 usages not from cdfers: 3 ( 0.02459 )
+
+#maidshock
+total users: 23 not from cdf: 2 ( 0.08696 )
+ total usages: 62 usages not from cdfers: 2 ( 0.03226 )
+
+#konhug
+total users: 149 not from cdf: 9 ( 0.0604 )
+ total usages: 4612 usages not from cdfers: 13 ( 0.00282 )
+
+#whatdidijustread
+total users: 72 not from cdf: 11 ( 0.15278 )
+ total usages: 203 usages not from cdfers: 19 ( 0.0936 )
+
+#uwaa
+total users: 52 not from cdf: 9 ( 0.17308 )
+ total usages: 158 usages not from cdfers: 15 ( 0.09494 )
+
+#what
+total users: 40100 not from cdf: 37778 ( 0.94209 )
+ total usages: 238969 usages not from cdfers: 136649 ( 0.57183 )
+
+#mashiroglare
+total users: 78 not from cdf: 17 ( 0.21795 )
+ total usages: 186 usages not from cdfers: 27 ( 0.14516 )
+
+#saberawe
+total users: 42 not from cdf: 6 ( 0.14286 )
+ total usages: 130 usages not from cdfers: 8 ( 0.06154 )
+
+#happykaoru
+total users: 30 not from cdf: 1 ( 0.03333 )
+ total usages: 94 usages not from cdfers: 1 ( 0.01064 )
+
+#datass
+total users: 52 not from cdf: 13 ( 0.25 )
+ total usages: 141 usages not from cdfers: 16 ( 0.11348 )
+
+#forgotkeys
+total users: 100 not from cdf: 20 ( 0.2 )
+ total usages: 323 usages not from cdfers: 24 ( 0.0743 )
