@@ -5,14 +5,14 @@ from psaw import PushshiftAPI
 import re
 import urllib.request
 
-# url is current as of 2019/05/05
-css = urllib.request.urlopen("https://b.thumbs.redditmedia.com/uxq9IAdkVA4-CMhkMyJWAcr-XnX0_CHa6Bp0f1nAnkc.css").read().decode('utf8')
+# url is current as of 2021/11/22
+css = urllib.request.urlopen("https://b.thumbs.redditmedia.com/S_eQedWbDdBP2LiQC52C6fleIuSC1sHBZtYlxYMYiew.css").read().decode('utf8')
 faces = set(re.findall(r'"(#[\w-]+)"', css)).difference(('#s', '#wiki_'))
 
 api = PushshiftAPI()
 
-start_epoch = int(dt.datetime(year=2018, month=7, day=5, hour=20).timestamp()) # all cdfs
-# start_epoch = int(dt.datetime(year=2019, month=5, day=2, hour=20).timestamp()) # may 03 cdf
+# start_epoch = int(dt.datetime(year=2018, month=7, day=6, tzinfo=dt.timezone.utc).timestamp()) # all cdfs
+start_epoch = int(dt.datetime(year=2021, month=11, day=19, tzinfo=dt.timezone.utc).timestamp()) # nov 19 2021 cdf
 
 commentators = dict()
 for face in faces:
@@ -34,7 +34,7 @@ for face in faces:
 print(commentators)
 
 cdfs = [cdf.id for cdf in api.search_submissions(
-    after = start_epoch,
+    after = start_epoch, # the assumption here is that even through automated means the likelihood of the thread being submitted on/before this time is highly nonexistent
     subreddit = 'anime',
     filter = ['title', 'id'],
     q = 'Casual Discussion' # At some point there was a switch from Friday to Fridays
