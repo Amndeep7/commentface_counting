@@ -1,9 +1,10 @@
+import urllib.request
+import re
 import datetime as dt
 from math import log
-import matplotlib.pyplot as plt
+
 from psaw import PushshiftAPI
-import re
-import urllib.request
+import matplotlib.pyplot as plt
 
 # url is current as of 2021/11/22
 css = urllib.request.urlopen("https://b.thumbs.redditmedia.com/S_eQedWbDdBP2LiQC52C6fleIuSC1sHBZtYlxYMYiew.css").read().decode('utf8')
@@ -17,12 +18,13 @@ start_epoch = int(dt.datetime(year=2021, month=11, day=19, tzinfo=dt.timezone.ut
 commentators = dict()
 for face in faces:
     print(face)
+    # defining an exhaustive regex that will accurately find all valid usages of commentfaces and exclude non-valid ones sounds exhaustive in and of itself, instead we're just gonna assume that putting a pound sign in front of a commentface implies a commentface usage
     authors = [a.author for a in api.search_comments(
         after = start_epoch,
         subreddit = 'anime',
-        filter = ['author'],
+        filter = ['author', 'body'],
         q = face
-    )]
+    ) if a.author != 'AutoModerator' and face in a.body] # bot-chan spams a lot out of a couple of faces and also even though the search term is '#face-name' it includes results for 'face-name' as well which can be a problem when it's a common word like 'done' so we gotta do a substring match too
     print(authors)
     d = dict()
     for a in authors:
