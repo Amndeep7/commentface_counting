@@ -23,8 +23,9 @@ for face in faces:
         after = start_epoch,
         subreddit = 'anime',
         filter = ['author', 'body'],
+        filter_fn = lambda c: c['author'] != 'AutoModerator' and face in c['body'],
         q = face
-    ) if a['author'] != 'AutoModerator' and face in a['body']] # bot-chan spams a lot out of a couple of faces and also even though the search term is '#face-name' it includes results for 'face-name' as well which can be a problem when it's a common word like 'done' so we gotta do a substring match too
+    )] # bot-chan spams a lot out of a couple of faces and also even though the search term is '#face-name' it includes results for 'face-name' as well which can be a problem when it's a common word like 'done' so we gotta do a substring match too
     print(authors)
     d = dict()
     for a in authors:
