@@ -3,7 +3,7 @@ import re
 import datetime as dt
 from math import log
 
-from psaw import PushshiftAPI
+from pmaw import PushshiftAPI
 import matplotlib.pyplot as plt
 
 # url is current as of 2021/11/22
@@ -13,18 +13,18 @@ faces = set(re.findall(r'"(#[\w-]+)"', css)).difference(('#s', '#wiki_'))
 api = PushshiftAPI()
 
 # start_epoch = int(dt.datetime(year=2018, month=7, day=6, tzinfo=dt.timezone.utc).timestamp()) # all cdfs
-start_epoch = int(dt.datetime(year=2021, month=11, day=19, tzinfo=dt.timezone.utc).timestamp()) # nov 19 2021 cdf
+start_epoch = int(dt.datetime(year=2021, month=11, day=28, tzinfo=dt.timezone.utc).timestamp()) # nov 19 2021 cdf
 
 commentators = dict()
 for face in faces:
     print(face)
     # defining an exhaustive regex that will accurately find all valid usages of commentfaces and exclude non-valid ones sounds exhaustive in and of itself, instead we're just gonna assume that putting a pound sign in front of a commentface implies a commentface usage
-    authors = [a.author for a in api.search_comments(
+    authors = [a['author'] for a in api.search_comments(
         after = start_epoch,
         subreddit = 'anime',
         filter = ['author', 'body'],
         q = face
-    ) if a.author != 'AutoModerator' and face in a.body] # bot-chan spams a lot out of a couple of faces and also even though the search term is '#face-name' it includes results for 'face-name' as well which can be a problem when it's a common word like 'done' so we gotta do a substring match too
+    ) if a['author'] != 'AutoModerator' and face in a['body']] # bot-chan spams a lot out of a couple of faces and also even though the search term is '#face-name' it includes results for 'face-name' as well which can be a problem when it's a common word like 'done' so we gotta do a substring match too
     print(authors)
     d = dict()
     for a in authors:
@@ -35,7 +35,7 @@ for face in faces:
     commentators[face] = d
 print(commentators)
 
-cdfs = [cdf.id for cdf in api.search_submissions(
+cdfs = [cdf['id'] for cdf in api.search_submissions(
     after = start_epoch, # the assumption here is that even through automated means the likelihood of the thread being submitted on/before this time is highly nonexistent
     subreddit = 'anime',
     filter = ['title', 'id'],
@@ -46,7 +46,7 @@ print(cdfs)
 
 cdf_commentators = set()
 for cdf in cdfs:
-    cdf_commentators_here = {a.author for a in api.search_comments(
+    cdf_commentators_here = {a['author'] for a in api.search_comments(
         after = start_epoch,
         subreddit = 'anime',
         filter = ['author'],
