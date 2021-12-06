@@ -2,39 +2,21 @@ import urllib.request
 import re
 import datetime as dt
 from math import log
+from pprint import pprint
 
 from pmaw import PushshiftAPI
 import matplotlib.pyplot as plt
 
 # url is current as of 2021/11/22
 css = urllib.request.urlopen("https://b.thumbs.redditmedia.com/S_eQedWbDdBP2LiQC52C6fleIuSC1sHBZtYlxYMYiew.css").read().decode('utf8')
-faces = set(re.findall(r'"(#[\w-]+)"', css)).difference(('#s', '#wiki_'))
+faces = list(set(re.findall(r'"(#[\w-]+)"', css)).difference(('#s', '#wiki_')))
+pprint(faces)
 
 api = PushshiftAPI()
 
 # start_epoch = int(dt.datetime(year=2018, month=7, day=6, tzinfo=dt.timezone.utc).timestamp()) # all cdfs
-start_epoch = int(dt.datetime(year=2021, month=11, day=28, tzinfo=dt.timezone.utc).timestamp()) # nov 19 2021 cdf
-
-commentators = dict()
-for face in faces:
-    print(face)
-    # defining an exhaustive regex that will accurately find all valid usages of commentfaces and exclude non-valid ones sounds exhaustive in and of itself, instead we're just gonna assume that putting a pound sign in front of a commentface implies a commentface usage
-    authors = [a['author'] for a in api.search_comments(
-        after = start_epoch,
-        subreddit = 'anime',
-        filter = ['author', 'body'],
-        filter_fn = lambda c: c['author'] != 'AutoModerator' and face in c['body'],
-        q = face
-    )] # bot-chan spams a lot out of a couple of faces and also even though the search term is '#face-name' it includes results for 'face-name' as well which can be a problem when it's a common word like 'done' so we gotta do a substring match too
-    print(authors)
-    d = dict()
-    for a in authors:
-        if a not in d:
-            d[a] = 0
-        d[a] += 1
-    print(d)
-    commentators[face] = d
-print(commentators)
+start_epoch = int(dt.datetime(year=2021, month=11, day=5, tzinfo=dt.timezone.utc).timestamp()) # nov 19 2021 cdf
+print('epoch', start_epoch)
 
 cdfs = [cdf['id'] for cdf in api.search_submissions(
     after = start_epoch, # the assumption here is that even through automated means the likelihood of the thread being submitted on/before this time is highly nonexistent
@@ -43,7 +25,44 @@ cdfs = [cdf['id'] for cdf in api.search_submissions(
     q = 'Casual Discussion' # At some point there was a switch from Friday to Fridays
 )]
 
-print(cdfs)
+print("cdfs", cdfs)
+
+# seems like there's a cap on how big the query can be, so this divvies up the query string into acceptable size clumps.
+def clump_string(itr, clump_size, sep="||"):
+    string = sep.join(itr)
+    clumps = []
+    while len(string) > clump_size:
+        index = clump_size
+        while string[index:index + len(sep)] != sep and index >= 0:
+            index -= 1
+        clumps.append(string[:index])
+        string = string[index + len(sep):]
+    clumps.append(string)
+    return clumps
+
+comments = []
+for clump in clump_string(faces, 3000): # seems like 3400 is the max atm, but gonna go with 3000 to be on the safe side
+    print(len(clump))
+    print(clump)
+    comments_clump = [comment for comment in api.search_comments(
+        after = start_epoch,
+        subreddit = 'anime',
+        filter = ['author', 'body', 'link_id'],
+        filter_fn = lambda c: c['author'] != 'AutoModerator' and any((face in c['body'] for face in faces)),
+        q = clump
+    )]
+    comments.extend(comments_clump)
+comments = [dict(deduped_comment) for deduped_comment in {tuple(comment.items()) for comment in comments}] # dicts are unhashable to can't do the easy `list(set(thing))` trick exactly: https://stackoverflow.com/a/9427216/645647
+pprint(comments)
+
+commentators = {face:dict() for face in faces} # TODO: change name of this variable to reflect primary key being faces
+for comment in comments:
+    for face in faces:
+        if face in comment['body']:
+            if comment['author'] not in commentators[face]:
+                commentators[face][comment['author']] = 0
+            commentators[face][comment['author']] += 1
+pprint(commentators)
 
 cdf_commentators = set()
 for cdf in cdfs:
@@ -53,9 +72,9 @@ for cdf in cdfs:
         filter = ['author'],
         link_id = cdf
     )}
-    print(len(cdf_commentators_here))
+    pprint(len(cdf_commentators_here))
     cdf_commentators = cdf_commentators.union(cdf_commentators_here)
-print(cdf_commentators)
+pprint(cdf_commentators)
 
 use = dict()
 for face in faces:
@@ -75,13 +94,13 @@ for face in faces:
 use_keys = use.keys()
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='rectilinear')
-print(use)
+pprint(use)
 x = [k[0] for k in use_keys]
-print(x)
+pprint(x)
 y = [k[1] for k in use_keys]
-print(y)
+pprint(y)
 s = [use[k] for k in use_keys]
-print(s)
+pprint(s)
 ax.scatter(x, y, [20*2**(log(size)) for size in s], c='r', marker='o')
 ax.set_xlabel('Percent of users not in CDF')
 ax.set_ylabel('Percent of usages not by CDFers')
