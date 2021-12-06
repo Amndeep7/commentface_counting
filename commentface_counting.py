@@ -15,7 +15,7 @@ pprint(faces)
 api = PushshiftAPI()
 
 # start_epoch = int(dt.datetime(year=2018, month=7, day=6, tzinfo=dt.timezone.utc).timestamp()) # all cdfs
-start_epoch = int(dt.datetime(year=2021, month=11, day=5, tzinfo=dt.timezone.utc).timestamp()) # nov 19 2021 cdf
+start_epoch = int(dt.datetime(year=2021, month=11, day=5, tzinfo=dt.timezone.utc).timestamp()) # nov 5 2021 cdf
 print('epoch', start_epoch)
 
 cdfs = [cdf['id'] for cdf in api.search_submissions(
