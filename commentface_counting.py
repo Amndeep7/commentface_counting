@@ -5,6 +5,9 @@ from math import log
 from pprint import pprint
 
 from pmaw import PushshiftAPI
+
+import matplotlib
+matplotlib.set_loglevel("critical")
 import matplotlib.pyplot as plt
 
 # url is current as of 2021/11/22
@@ -15,7 +18,7 @@ pprint(faces)
 api = PushshiftAPI()
 
 # start_epoch = int(dt.datetime(year=2018, month=7, day=6, tzinfo=dt.timezone.utc).timestamp()) # all cdfs
-start_epoch = int(dt.datetime(year=2021, month=11, day=5, tzinfo=dt.timezone.utc).timestamp()) # nov 5 2021 cdf
+start_epoch = int(dt.datetime(year=2021, month=12, day=20, hour=5, tzinfo=dt.timezone.utc).timestamp()) # time of writing (2021/12/20)
 print('epoch', start_epoch)
 
 cdfs = [cdf['id'] for cdf in api.search_submissions(
