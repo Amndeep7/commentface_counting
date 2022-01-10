@@ -1,14 +1,12 @@
-import urllib.request
-import re
+import csv
 import datetime as dt
+import re
+import urllib.request
 from math import log
 from pprint import pprint
 
-from pmaw import PushshiftAPI
-
-import matplotlib
-matplotlib.set_loglevel("critical")
 import matplotlib.pyplot as plt
+from pmaw import PushshiftAPI
 
 def get_commentfaces():
     # url is current as of 2021/11/22
@@ -79,7 +77,7 @@ def get_cdf_commentators(api, start_epoch, cdfs):
             link_id = cdf
         )}
         pprint(len(cdf_commentators_here))
-        cdf_commentators = cdf_commentators.union(cdf_commentators_here)
+        cdf_commentators = cdf_commentators.union(cdf_commentators_here) # todo: do the union outside the loop
     pprint(cdf_commentators)
     return cdf_commentators
 
@@ -114,13 +112,31 @@ def analysis_and_visualization(faces, commentators, cdf_commentators):
     ax.set_ylabel('Percent of usages not by CDFers')
     plt.savefig('allcdfs.png')
 
+def commentators_by_commentfaces_csv(commentators, cdf_commentators, faces):
+    headers = ['User', 'CDFer'] + sorted(faces)
+    
+    reverse_face_data = {}
+    for face in faces:
+        for commentator, count in commentators[face].items():
+            if commentator not in reverse_face_data:
+                reverse_face_data[commentator] = {f: 0 for f in faces}
+            reverse_face_data[commentator][face] = count
+    pprint(reverse_face_data)
+
+    data = [{'User': commentator, 'CDFer': commentator in cdf_commentators} | face_data  for commentator, face_data in sorted(reverse_face_data.items())]
+
+    with open('all_commentators_by_commentface.csv', 'w', newline='') as f:
+        writer = csv.DictWriter(f, headers)
+        writer.writeheader()
+        writer.writerows(data)
+
 def main():
     faces = get_commentfaces()
 
     api = PushshiftAPI()
 
     # start_epoch = int(dt.datetime(year=2018, month=7, day=6, tzinfo=dt.timezone.utc).timestamp()) # all cdfs
-    start_epoch = int(dt.datetime(year=2021, month=12, day=17, tzinfo=dt.timezone.utc).timestamp()) # most recent cdf as of time of writing (2021/12/20)
+    start_epoch = int(dt.datetime(year=2022, month=1, day=7, tzinfo=dt.timezone.utc).timestamp()) # most recent cdf as of time of writing (2022/1/7)
     print('epoch', start_epoch)
 
     comments = get_all_comments_using_commentfaces(api, start_epoch, faces)
@@ -130,6 +146,7 @@ def main():
     cdf_commentators = get_cdf_commentators(api, start_epoch, cdfs)
 
     analysis_and_visualization(faces, commentators, cdf_commentators)
+    commentators_by_commentfaces_csv(commentators, cdf_commentators, faces)
 
 if __name__ == "__main__":
     main()
