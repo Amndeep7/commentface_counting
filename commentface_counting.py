@@ -38,7 +38,7 @@ def get_all_comments_using_commentfaces(api, start_epoch, faces):
         comments_clump = [comment for comment in api.search_comments(
             after = start_epoch,
             subreddit = 'anime',
-            filter = ['author', 'body', 'link_id'],
+            filter = ['author', 'body', 'link_id', 'created_utc'],
             filter_fn = lambda c: c['author'] != 'AutoModerator' and any((face in c['body'] for face in faces)),
             q = clump
         )]
